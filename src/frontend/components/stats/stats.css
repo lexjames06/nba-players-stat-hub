@@ -1,0 +1,181 @@
+.table-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    background-color: rgb(216, 216, 216);
+}
+
+.table {
+    width: 90vw;
+}
+
+.table-row {
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    border-radius: 10px;
+    margin: 2px ;
+}
+
+.table-row div {
+    width: 100%;
+    padding: 10px;
+    text-align: center;
+    /* border-bottom: 2px solid white; */
+}
+
+#ATL {
+    background-color: #E03A3E;
+    color: white;
+}
+
+#BKN {
+    background-color: black;
+    color: white;
+    border-bottom: 4px solid white;
+}
+
+#BOS {
+    background-color: #007A33;
+    color: white;
+}
+
+#CHA {
+    background-color: #1D1160;
+    color: white;
+}
+
+#CHI {
+    background-color: #CE1141;
+    color: white;
+}
+
+#CLE {
+    background-color: #860038;
+    color: white;
+}
+
+#DAL {
+    background-color: #00538C;
+    color: white;
+}
+
+#DEN {
+    background-color: #0E2240;
+    color: white;
+}
+
+#DET {
+    background-color: #C8102E;
+    color: white;
+}
+
+#GSW {
+    background-color: #1D428A;
+    color: white;
+}
+
+#HOU {
+    background-color: #CE1141;
+    color: white;
+}
+
+#IND {
+    background-color: #002D62;
+    color: white;
+}
+
+#LAC {
+    background-color: #C8102E;
+    color: white;
+}
+
+#LAL {
+    background-color: #552583;
+    color: white;
+}
+
+#MEM {
+    background-color: #5D76A9;
+    color: white;
+}
+
+#MIA {
+    background-color: #98002E;
+    color: white;
+}
+
+#MIL {
+    background-color: #00471B;
+    color: white;
+}
+
+#MIN {
+    background-color: #0C2340;
+    color: white;
+}
+
+#NOP {
+    background-color: #0C2340;
+    color: white;
+}
+
+#NYK {
+    background-color: #0C2340;
+    color: white;
+}
+
+#OKC {
+    background-color: #007AC1;
+    color: white;
+}
+
+#ORL {
+    background-color: #0077C0;
+    color: white;
+}
+
+#PHI {
+    background-color: #006BB6;
+    color: white;
+}
+
+#PHX {
+    background-color: #1D1160;
+    color: white;
+}
+
+#POR {
+    background-color: #E03A3E;
+    color: white;
+}
+
+#RMD {
+    background-color: #00538C;
+    color: white;
+}
+
+#SAC {
+    background-color: #5A2D81;
+    color: white;
+}
+
+#SAS {
+    background-color: black;
+    color: white;
+}
+
+#TOR {
+    background-color: #CE1141;
+    color: white;
+}
+
+#UTA {
+    background-color: #002B5C;
+    color: white;
+}
+
+#WAS {
+    background-color: #002B5C;
+    color: white;
+}
